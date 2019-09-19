@@ -4,7 +4,7 @@
  
 This paper won a Thomas Lain Scholarship in 2018. The award was based on scientific understanding of the topic and also clarity of writing. 
  
-The prompt for the essay contest was: 
+The essay contest prompt was: 
 
   "Discuss the concept of quantum entanglement and its relationship to the theta-tau puzzle." 
  
