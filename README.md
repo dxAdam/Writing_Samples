@@ -1,10 +1,10 @@
 # Writing Samples 
  
-## ThomasLainSpring2018_agg20.pdf 
+## ThomasLainSpring2018
  
 This paper won a Thomas Lain Scholarship in 2018. The award was based on scientific understanding of the topic and also clarity of writing. 
  
-The prompt for the essay contest was 
+The prompt for the essay contest was: 
 
   "Discuss the concept of quantum entanglement and its relationship to the theta-tau puzzle." 
  
