@@ -12,3 +12,8 @@ The essay contest prompt was:
 ## OpticsPapers 1 and 2
  
 These papers were assignments in my Waves & Optics course (PHYS 1361). Each assignment was to write up one of our weekly labs as if we were going to submit them to a scientific journal. Each student in the group wrote their own individual papers.
+
+
+
+note: The papers look much better if downloaded and viewed on an actual pdf
+viewer.
