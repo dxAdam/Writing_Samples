@@ -13,4 +13,4 @@ The essay contest prompt was:
  
 These papers fufilled a required writing component add-on to a physics course, in this case Waves & Optics (PHYS 1361).  
      
-The writing component required choosing two of our weekly labs and writing them as if being submitted to a scientific journal. Each student in the lab group wrote their own papers, and both of mine received an A.
+The writing component required choosing two of our weekly labs and writing them as if being submitted to a scientific journal. Each student in a group wrote their own individual papers. Both of mine received an A.
