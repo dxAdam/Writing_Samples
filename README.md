@@ -11,4 +11,8 @@ The essay contest prompt was:
  
 ### [OpticsPaper1](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/OpticsPaper1.pdf) & [OpticsPaper2](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/OpticsPaper2.pdf)
  
-These papers were assignments in my Waves & Optics course (PHYS 1361). Each assignment was to write up one of our weekly labs as if we were going to submit them to a scientific journal. Each student in the group wrote their own individual papers. I received an A on both papers.
+These papers fufilled a required 1-credit writing component add-on to a physics
+course, in this case Waves & Optics (PHYS 1361). 
+
+The writing component required choosing two of our weekly labs and writing them up as if we were going to submit them to a scientific journal. Each student in
+the lab group wrote their own papers. Both of mine received an A grade.
