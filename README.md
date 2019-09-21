@@ -1,6 +1,6 @@
 # Writing Samples 
  
-## ThomasLainSpring2018
+## [ThomasLainSpring2018](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/ThomasLainSping2018.pdf)
  
 This paper won a Thomas Lain Scholarship in 2018. The award was based on scientific understanding of the topic and also clarity of writing. 
  
