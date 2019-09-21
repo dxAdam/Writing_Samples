@@ -9,7 +9,7 @@ The essay contest prompt was:
 &nbsp; "Discuss the concept of quantum entanglement and its relationship to the theta-tau puzzle." 
  
  
-## OpticsPapers 1 and 2
+## [OpticsPaper1](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/OpticsPaper1.pdf) and [OpticsPaper2](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/OpticsPaper2.pdf)
  
 These papers were assignments in my Waves & Optics course (PHYS 1361). Each assignment was to write up one of our weekly labs as if we were going to submit them to a scientific journal. Each student in the group wrote their own individual papers.
 
