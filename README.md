@@ -1,6 +1,6 @@
 # Writing Samples 
  
-### [ThomasLainSpring2018](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/ThomasLainSping2018.pdf)
+### [QuantumEntanglement](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/QuantumEntanglement.pdf)
  
 This paper won a Thomas Lain Scholarship in 2018. The award was based on scientific understanding of the topic and alsoclarity of writing and use of the English language. 
  
@@ -9,7 +9,7 @@ The essay contest prompt was:
 &nbsp; &nbsp; "Discuss the concept of quantum entanglement and its relationship to the theta-tau puzzle." 
  
  
-### [LinearPolarizedLight](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/LinearPolarizedLight.pdf) & [InterferenceEffects](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/InterferenceEffects.pdf)
+### [PolarizedLight](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/PolarizedLight.pdf) & [InterferenceEffects](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/InterferenceEffects.pdf)
  
 These papers fufilled a required writing component add-on to a physics course, in this case Waves & Optics (PHYS 1361).  
      
