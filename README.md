@@ -2,7 +2,7 @@
  
 ### [QuantumEntanglement](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/QuantumEntanglement.pdf)
  
-This paper won a Thomas Lain Scholarship in 2018. The award was based on scientific understanding of the topic and alsoclarity of writing and use of the English language. 
+This paper won a Thomas Lain Scholarship in 2018. The award was based on scientific understanding of the topic and also clarity of writing and use of the English language. 
  
 The essay contest prompt was: 
 
