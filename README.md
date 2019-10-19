@@ -9,7 +9,9 @@ The essay contest prompt was:
 &nbsp; &nbsp; "Discuss the concept of quantum entanglement and its relationship to the theta-tau puzzle." 
  
  
-### [The effect of reflection and polarizers on linear polarized light](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/PolarizedLight.pdf) & [Interference effects with an amplitude splitting interferometer](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/InterferenceEffects.pdf)
+### [The effect of reflection and polarizers on linear polarized light](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/PolarizedLight.pdf)  
+&  
+[Interference effects with an amplitude splitting interferometer](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/InterferenceEffects.pdf)
  
 These papers fufilled a required writing component add-on to a physics course, in this case Waves & Optics.  
      
