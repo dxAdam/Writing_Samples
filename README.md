@@ -18,3 +18,6 @@ The writing component required choosing two of our weekly labs and writing them 
 
 ### [Physical Concepts in Spintronics](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/Spintronics.pdf)
 
+This paper was the result of a research project in my Solid State Physics course. Each student picked a different solid state physics topic and spent several weeks researching it in place of homework. 
+
+I chose to research spintronics because I found it an interesting topic that could lead to many new devices and methods of computation. It was also a good way to learn more about spin and other quantum effects and interactions at the electron level. The paper along with a presentation I gave in class were worth 25% of my final grade, I received 100% on the project. 
