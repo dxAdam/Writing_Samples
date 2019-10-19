@@ -16,5 +16,5 @@ These papers fufilled a required writing component add-on to a physics course, i
 The writing component required choosing two of our weekly labs and writing them as if being submitted to a scientific journal. Each student in a group wrote their own individual papers. Both of mine received an A.  
 
 
-### [Physical Concepts in Spintronics](https://docs.google.com/viewer?url=https://github.com/dxadam/Writing_Samples/use_links_below/Spintronics.pdf)
+### [Physical Concepts in Spintronics](https://docs.google.com/viewer?url=https://github.com/dxAdam/Writing_Samples/raw/master/use_links_below/Spintronics.pdf)
 
